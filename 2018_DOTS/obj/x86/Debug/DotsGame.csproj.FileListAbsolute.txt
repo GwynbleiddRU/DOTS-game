@@ -1,0 +1,47 @@
+C:\Users\King\Desktop\Точки\Project\obj\x86\Debug\DotsGame.exe
+C:\Users\King\Desktop\Точки\Project\obj\x86\Debug\DotsGame.pdb
+C:\Users\King\Desktop\Точки\Project\bin\Debug\DotsGame.exe
+C:\Users\King\Desktop\Точки\Project\bin\Debug\DotsGame.pdb
+C:\Users\King\Desktop\Точки\Project\obj\x86\Debug\DotsGame.csprojResolveAssemblyReference.cache
+C:\Users\King\Desktop\Точки\Project\obj\x86\Debug\WindowsFormsApplication364.Form1.resources
+C:\Users\King\Desktop\Точки\Project\obj\x86\Debug\WindowsFormsApplication364.Form2.resources
+C:\Users\King\Desktop\Точки\Project\obj\x86\Debug\WindowsFormsApplication364.History.resources
+C:\Users\King\Desktop\Точки\Project\obj\x86\Debug\WindowsFormsApplication364.Logo.resources
+C:\Users\King\Desktop\Точки\Project\obj\x86\Debug\DotsGame.Properties.Resources.resources
+C:\Users\King\Desktop\Точки\Project\obj\x86\Debug\DotsGame.csproj.GenerateResource.Cache
+C:\Users\Пользователь\source\repos\DOTS\bin\Debug\DotsGame.exe
+C:\Users\Пользователь\source\repos\DOTS\bin\Debug\DotsGame.pdb
+C:\Users\Пользователь\source\repos\DOTS\obj\x86\Debug\DotsGame.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\DOTS\obj\x86\Debug\DotsGame.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\DOTS\obj\x86\Debug\DotsGame.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\DOTS\obj\x86\Debug\DotsGame.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\DOTS\obj\x86\Debug\DotsGame.exe
+C:\Users\Пользователь\source\repos\DOTS\obj\x86\Debug\DotsGame.pdb
+C:\Users\Пользователь\source\repos\DOTS\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Пользователь\source\repos\DOTS\obj\x86\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Пользователь\source\repos\DOTS\obj\x86\Debug\WindowsFormsApplication4.History.resources
+C:\Users\Пользователь\source\repos\DOTS\obj\x86\Debug\WindowsFormsApplication4.Logo.resources
+C:\Users\Пользователь ПК\source\repos\DOTS\bin\Debug\DotsGame.exe
+C:\Users\Пользователь ПК\source\repos\DOTS\bin\Debug\DotsGame.pdb
+C:\Users\Пользователь ПК\source\repos\DOTS\obj\x86\Debug\DotsGame.csprojAssemblyReference.cache
+C:\Users\Пользователь ПК\source\repos\DOTS\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Пользователь ПК\source\repos\DOTS\obj\x86\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Пользователь ПК\source\repos\DOTS\obj\x86\Debug\WindowsFormsApplication4.History.resources
+C:\Users\Пользователь ПК\source\repos\DOTS\obj\x86\Debug\WindowsFormsApplication4.Logo.resources
+C:\Users\Пользователь ПК\source\repos\DOTS\obj\x86\Debug\DotsGame.Properties.Resources.resources
+C:\Users\Пользователь ПК\source\repos\DOTS\obj\x86\Debug\DotsGame.csproj.GenerateResource.cache
+C:\Users\Пользователь ПК\source\repos\DOTS\obj\x86\Debug\DotsGame.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь ПК\source\repos\DOTS\obj\x86\Debug\DotsGame.exe
+C:\Users\Пользователь ПК\source\repos\DOTS\obj\x86\Debug\DotsGame.pdb
+C:\Users\Пользователь ПК\source\repos\2018_DOTS\bin\Debug\DotsGame.exe
+C:\Users\Пользователь ПК\source\repos\2018_DOTS\bin\Debug\DotsGame.pdb
+C:\Users\Пользователь ПК\source\repos\2018_DOTS\obj\x86\Debug\DotsGame.csprojAssemblyReference.cache
+C:\Users\Пользователь ПК\source\repos\2018_DOTS\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Пользователь ПК\source\repos\2018_DOTS\obj\x86\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Пользователь ПК\source\repos\2018_DOTS\obj\x86\Debug\WindowsFormsApplication4.History.resources
+C:\Users\Пользователь ПК\source\repos\2018_DOTS\obj\x86\Debug\WindowsFormsApplication4.Logo.resources
+C:\Users\Пользователь ПК\source\repos\2018_DOTS\obj\x86\Debug\DotsGame.Properties.Resources.resources
+C:\Users\Пользователь ПК\source\repos\2018_DOTS\obj\x86\Debug\DotsGame.csproj.GenerateResource.cache
+C:\Users\Пользователь ПК\source\repos\2018_DOTS\obj\x86\Debug\DotsGame.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь ПК\source\repos\2018_DOTS\obj\x86\Debug\DotsGame.exe
+C:\Users\Пользователь ПК\source\repos\2018_DOTS\obj\x86\Debug\DotsGame.pdb
